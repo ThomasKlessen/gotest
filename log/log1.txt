@@ -1,0 +1,4 @@
+log3: 2017/07/17 00:31:04.999796 Gehts?
+log1: 2017/07/17 00:31:04.999865 Logger geht
+log1: 2017/07/17 00:31:04.999887 Logger1 geht immernoch
+log3: 2017/07/17 00:31:04.999901 Geht! Really!

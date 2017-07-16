@@ -1,0 +1,2 @@
+log2: 2017/07/17 00:31:04.999873 Logger geht
+log2: 2017/07/17 00:31:04.999894 Logger2 geht immernoch
